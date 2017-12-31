@@ -31,5 +31,5 @@ The files are:
 8. Create final file with only Subject, Activity, and Mean data
 
 ## Summary
-The resulting data file new_tidy_data_means.txt contains the means of all readings grouped by subject and activity type.
-There is much more detailed processing information within the script, run_analysis.R.
+The resulting data file **new_tidy_data_means.txt** contains the means of all readings grouped by subject and activity type.
+There is much more detailed processing information within the script, **run_analysis.R**.
