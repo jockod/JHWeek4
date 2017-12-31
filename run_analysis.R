@@ -86,5 +86,5 @@ setwd("~/Desktop/JohnsHopkins/Collecting/Week4Quiz/UCIHARDataset")
                         contains("MEAN"))
 
 # Now output final file
-        write.table(fnlData, file = "new_tidy_data_means.txt")
+        write.table(fnlData, file = "new_tidy_data_means.txt",row.name=FALSE)
         
