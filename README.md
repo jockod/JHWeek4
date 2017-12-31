@@ -11,6 +11,6 @@ fully documented within.  It performs the following functions:
 6. Produce a new tidy data set containing these means in a clear and readable form
 
 In this directory is the new tidy data set containing the means of all
-the dat grouped by subject and activity.  It is in **new_tidy_data_means.txt**.
+the data grouped by subject and activity.  It is in **new_tidy_data_means.txt**.
 
 In this directory is also the codebook for this project, in **CodeBook.md**.
